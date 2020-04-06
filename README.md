@@ -2,3 +2,6 @@
 
 ## Visualizing Hard Fork Evolution:
 https://github.com/shuiblue/VisualizeHardfork
+
+## License
+The artifact is available under [MIT License](https://github.com/shuiblue/ICSE20-hardfork-appendix/blob/master/LICENSE)
